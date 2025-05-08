@@ -37,7 +37,7 @@ A user-friendly desktop application to generate, store, and retrieve secure pass
 
 1. Clone the repository:
    ```bash
-   [git clone https://github.com/yourusername/password-manager.git](https://github.com/Dinesh99673/Password_Manager.git)
+   git clone https://github.com/yourusername/password-manager.git
    cd password-manager
 
 2. Run the main file:  
